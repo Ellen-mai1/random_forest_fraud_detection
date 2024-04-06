@@ -1,0 +1,5 @@
+Classification of Credit Card Fraud with Machine Learning in Python
+
+Objective: Develop a machine learning model to identify fraudulent credit card transactions. 
+
+Analyze a financial data set to find fraudulent transactions and utilize predictive models with Scikit-Learn. By training and splitting the data, evaluate the model effectiveness with Python.
